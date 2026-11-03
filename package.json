@@ -1,0 +1,10 @@
+{
+  "name": "my-omniroute",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx omniroute --port $PORT"
+  },
+  "dependencies": {
+    "omniroute": "latest"
+  }
+}
